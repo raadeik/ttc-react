@@ -12,7 +12,7 @@ Main component that takes a list of routes (four for the four stops at interseci
 
 <code>/src/ttc/TTCStop.js</code>
 
-Component that connects to the NextBus feed for a particular route and loads the data into another compoenent.
+Component that connects to the NextBus feed for a particular route and loads the data into another component.
 
 <code>/src/ttc/TTCDirection.js</code>
 
